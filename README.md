@@ -6,7 +6,7 @@
 # Ytranslator v1.4 - Ultra-Fast & Intelligent Windows Translation Assistant
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yunusbbayram/Ytranslator/main/logo.png" alt="Ytranslator Logo" width="500" />
+  <img src="https://raw.githubusercontent.com/yunusbbayram/Ytranslator/main/logo.png" alt="Ytranslator Logo" width="400" />
 </p>
 
 <p align="center">
